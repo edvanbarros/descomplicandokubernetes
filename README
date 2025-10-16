@@ -1,0 +1,28 @@
+# ☸️ Estudos do Curso Descomplicando Kubernetes - LinuxTips
+
+Repositório dos meus estudos do curso **Descomplicando Kubernetes** da [LinuxTips](https://linuxtips.io/). 🚀  
+
+Aqui compartilho meus **laboratórios, anotações e testes práticos** realizados durante o curso, explorando os principais conceitos e ferramentas do ecossistema **Kubernetes**.
+
+---
+
+## 📘 Alguns tópicos que estdarei.
+
+- Fundamentos do Kubernetes  
+- Pods, Deployments e Services  
+- ConfigMaps e Secrets  
+- Namespaces e Contextos  
+- Volumes e Persistência de Dados  
+- Ingress e Load Balancers  
+- RBAC e segurança  
+- Monitoramento e Troubleshooting  
+
+
+## 🎯 Objetivo
+
+Registrar minha jornada de aprendizado e prática no **Kubernetes**, desde os conceitos básicos até recursos avançados, aplicando o que aprendo no dia a dia DevOps.
+
+
+
+
+
