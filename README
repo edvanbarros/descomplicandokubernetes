@@ -2,11 +2,9 @@
 
 Repositório dos meus estudos do curso **Descomplicando Kubernetes** da [LinuxTips](https://linuxtips.io/). 🚀  
 
-Aqui compartilho meus **laboratórios, anotações e testes práticos** realizados durante o curso, explorando os principais conceitos e ferramentas do ecossistema **Kubernetes**.
+Aqui compartilharei meus **laboratórios, anotações e testes práticos** realizados durante o curso, explorando os principais conceitos e ferramentas do ecossistema **Kubernetes**.
 
----
-
-## 📘 Alguns tópicos que estdarei.
+# 📘 Alguns tópicos que estdarei.
 
 - Fundamentos do Kubernetes  
 - Pods, Deployments e Services  
@@ -18,11 +16,6 @@ Aqui compartilho meus **laboratórios, anotações e testes práticos** realizad
 - Monitoramento e Troubleshooting  
 
 
-## 🎯 Objetivo
+# 🎯 Objetivo
 
 Registrar minha jornada de aprendizado e prática no **Kubernetes**, desde os conceitos básicos até recursos avançados, aplicando o que aprendo no dia a dia DevOps.
-
-
-
-
-
